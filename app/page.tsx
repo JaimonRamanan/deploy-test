@@ -66,7 +66,7 @@ export default function HomePage() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="md:w-1/2 space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900">
-              Hello, I'm <span className="text-blue-600">Alex</span>
+              Hello, I&apos;m <span className="text-blue-600">Alex</span>
             </h1>
             <p className="text-xl text-slate-700">
               Full Stack Developer specializing in building exceptional digital experiences with modern web technologies.
@@ -139,13 +139,13 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-8">
             <div>
               <p className="text-slate-700 mb-4">
-                I'm a passionate Full Stack Developer with over 5 years of experience building web applications. I focus on creating performant, accessible, and user-friendly digital experiences.
+                I&apos;m a passionate Full Stack Developer with over 5 years of experience building web applications. I focus on creating performant, accessible, and user-friendly digital experiences.
               </p>
               <p className="text-slate-700 mb-4">
-                Throughout my career, I've worked with various technologies and methodologies, always striving to keep up with the latest industry trends while maintaining a focus on writing clean, maintainable code.
+                Throughout my career, I&apos;ve worked with various technologies and methodologies, always striving to keep up with the latest industry trends while maintaining a focus on writing clean, maintainable code.
               </p>
               <p className="text-slate-700">
-                When I'm not coding, you can find me hiking, reading sci-fi novels, or experimenting with new recipes in the kitchen.
+                When I&apos;m not coding, you can find me hiking, reading sci-fi novels, or experimenting with new recipes in the kitchen.
               </p>
             </div>
             <div>
@@ -207,7 +207,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-4">Interested in working together?</h2>
           <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.
+            I&apos;m always open to discussing new projects, creative ideas or opportunities to be part of your vision.
           </p>
           <Link
             href="/contact"
